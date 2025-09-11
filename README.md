@@ -1,4 +1,5 @@
 ## Hello there 👋
+My name is Henri Hämynen and I am a student at Lab uni
 
 <!--
 **henriham/henriham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
